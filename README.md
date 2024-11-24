@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhi-sivakumar" alt="aadhi-sivakumar" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **aadhi.sivakumar05@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Dq4kt1KzGPBqsxj6WHgMjvtULpBiYBRjYFpmnC4MAvk/edit?usp=sharing](https://docs.google.com/document/d/1Dq4kt1KzGPBqsxj6WHgMjvtULpBiYBRjYFpmnC4MAvk/edit?usp=sharing)
