@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadhi Sivakumar</h1>
-<h3 align="center">I am a Computer Science student at The University of Texas at Dallas who is deeply interested in software engineering. My focus extends to working with APIs, leveraging cloud services, and backend development.</h3>
+<h3 align="center">I am a student at The University of Texas at Dallas pursuing a Bachelor's degree in Computer Science. My focus extends to working with APIs, leveraging cloud services, backend development, and exploring the potential of machine learning to drive innovation. I am always excited to learn new skills and grow my potential as a software engineer. Please feel free to reach out to me about new opportunities related to software engineering and machine learning!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhi-sivakumar" alt="aadhi-sivakumar" /></a> </p>
 
