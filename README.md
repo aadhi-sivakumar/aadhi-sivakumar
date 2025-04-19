@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **aadhi.sivakumar05@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Dq4kt1KzGPBqsxj6WHgMjvtULpBiYBRjYFpmnC4MAvk/edit?usp=sharing](https://docs.google.com/document/d/1Dq4kt1KzGPBqsxj6WHgMjvtULpBiYBRjYFpmnC4MAvk/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aadhi-sivakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aadhi-sivakumar" height="30" width="40" /></a>
