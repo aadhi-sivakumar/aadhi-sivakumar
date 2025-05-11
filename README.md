@@ -12,9 +12,7 @@
 
 🎓 **About Me**  
 I am a student at The University of Texas at Dallas pursuing a Bachelor's degree in Computer Science.  
-My focus extends to working with **APIs**, leveraging **cloud services**, **backend development**, and exploring the potential of **machine learning** to drive innovation.  
-I'm always excited to learn new skills and grow my potential as a software engineer.  
-Feel free to reach out to me about new opportunities related to software engineering and machine learning!
+My focus extends to working with **APIs**, leveraging **cloud services**, **backend development**, and exploring the potential of **machine learning** to drive innovation. I'm always excited to learn new skills and grow my potential as a software engineer. Feel free to reach out to me about new opportunities related to software engineering and machine learning!
 
 ---
 
@@ -56,6 +54,16 @@ Feel free to reach out to me about new opportunities related to software enginee
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
 </p>
+
+---
+
+📁 **Projects**
+
+- 🔬 [Sign-opsis (HackAI)](https://github.com/aadhi-sivakumar/Sign-opsis-HackAI)  
+  AI-powered ASL translator using OpenAI Whisper for speech-to-text, spaCy for grammar parsing, and OpenCV for sign animation. Built with Flask + Next.js.
+
+- 🌱 [EcoTrack (HackUTD 2024)](https://github.com/aadhi-sivakumar/EcoTrack-HACKUTD-2024)  
+  Sustainability tracker built with React, Node.js, and OpenAI. Includes charts, leaderboard, goal tracking, and an integrated chatbot for energy tips.
 
 ---
 
