@@ -11,8 +11,11 @@
 ---
 
 🎓 **About Me**  
-I am a student at The University of Texas at Dallas pursuing a Bachelor's degree in Computer Science.  
-My focus extends to working with **APIs**, leveraging **cloud services**, **backend development**, and exploring the potential of **machine learning** to drive innovation. I'm always excited to learn new skills and grow my potential as a software engineer. Feel free to reach out to me about new opportunities related to software engineering and machine learning!
+I’m a senior at The University of Texas at Dallas majoring in Computer Science. I’m passionate about building systems that make life easier—whether it’s automating infrastructure, improving backend services, or using machine learning to solve real-world problems.
+
+Over the past few years, I’ve interned at Google, CDK Global, and Crown Castle, where I built full-stack platforms, streamlined IT workflows, and enhanced system reliability. I also contributed to academic research on detecting DDoS attacks using machine learning. One of my favorite projects is a real-time Text-to-ASL translator that combines OpenAI Whisper and MediaPipe.
+
+I’m especially interested in API design, cloud computing, backend development, and ML-powered applications. I'm always looking to learn new skills and collaborate on innovative ideas.
 
 ---
 
