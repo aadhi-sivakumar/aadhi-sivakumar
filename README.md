@@ -61,7 +61,8 @@ I’m especially interested in API design, cloud computing, backend development,
 ---
 
 📁 **Projects**
-
+- 🧠 Company Intelligence Dashboard (Google Internship)
+  Full-stack web platform that auto-generates company dashboards by integrating Gemini, SEC, and financial APIs, with an AI assistant for document-driven insights.
 - 🔬 [Sign-opsis (HackAI)](https://github.com/aadhi-sivakumar/Sign-opsis-HackAI)  
   AI-powered ASL translator using OpenAI Whisper for speech-to-text, spaCy for grammar parsing, and OpenCV for sign animation. Built with Flask + Next.js.
 
