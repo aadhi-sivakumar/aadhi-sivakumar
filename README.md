@@ -11,7 +11,7 @@
 ---
 
 🎓 **About Me**  
-I’m a senior at The University of Texas at Dallas majoring in Computer Science. I’m passionate about building systems that make life easier—whether it’s automating infrastructure, improving backend services, or using machine learning to solve real-world problems.
+I’m a junior at The University of Texas at Dallas majoring in Computer Science. I’m passionate about building systems that make life easier—whether it’s automating infrastructure, improving backend services, or using machine learning to solve real-world problems.
 
 Over the past few years, I’ve interned at Google, CDK Global, and Crown Castle, where I built full-stack platforms, streamlined IT workflows, and enhanced system reliability. I also contributed to academic research on detecting DDoS attacks using machine learning. One of my favorite projects is a real-time Text-to-ASL translator that combines OpenAI Whisper and MediaPipe.
 
