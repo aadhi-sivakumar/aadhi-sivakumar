@@ -47,6 +47,7 @@ const aadhi = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 ### Frameworks
@@ -59,6 +60,7 @@ const aadhi = {
   <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -82,10 +84,12 @@ const aadhi = {
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
@@ -115,6 +119,54 @@ Full-stack platform that auto-generates comprehensive company dashboards by inte
 
 ---
 
+### 📊 Google Trends Entertainment Predictor
+**Break Through Tech AI Program**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Trends-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+AI-powered system analyzing 5 years of Google Trends data to predict emerging movie trends with 86.4% accuracy. Built interactive Streamlit dashboard with 30+ engineered features for entertainment market insights.
+
+**[🔗 View Project](https://github.com/aadhi-sivakumar/Google-Trends-Entertainment-Predictor)**
+
+---
+
+### 🖼️ Denoising Autoencoder
+**Machine Learning Research Project**
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Fashion_MNIST-000000?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+Implemented autoencoder from scratch using only NumPy for image denoising on Fashion-MNIST dataset. Achieved effective noise reduction through custom neural network architecture with multiple experiment configurations.
+
+**[🔗 View Project](https://github.com/aadhi-sivakumar/Autoencoder-for-Image-Processing)**
+
+---
+
+### 📱 Phoniverse
+**Mobile Application Development**
+
+<p align="left">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+Cross-platform mobile application built with React Native and TypeScript, featuring comprehensive backend integration and machine learning components for enhanced functionality.
+
+**[🔗 View Project](https://github.com/aadhi-sivakumar/Phoniverse)**
+
+---
+
 ### 🤟 Sign-opsis - AI-Powered ASL Translator
 **HackAI Hackathon Project**
 
@@ -129,29 +181,16 @@ Real-time Text-to-ASL translation system using OpenAI Whisper for speech recogni
 
 **[🔗 View Project](https://github.com/aadhi-sivakumar/Sign-opsis-HackAI)**
 
----
-
-### 🌱 EcoTrack - Sustainability Tracker
-**HackUTD 2024**
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-</p>
-
-Comprehensive sustainability platform with real-time tracking, interactive charts, leaderboard system, and AI chatbot for personalized energy-saving tips.
-
-**[🔗 View Project](https://github.com/aadhi-sivakumar/EcoTrack-HACKUTD-2024)**
-
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadhi-sivakumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhi-sivakumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhi-sivakumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -176,5 +215,26 @@ Comprehensive sustainability platform with real-time tracking, interactive chart
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+[![Email](https://img.shields.io/badge/Email-aadhi.sivakumar05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadhi.sivakumar05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi-sivakumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aadhisportfolio.vercel.app)
 
 </div>
