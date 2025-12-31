@@ -27,7 +27,7 @@ const aadhi = {
     location: "Austin, TX 📍",
     education: "UT Dallas - Computer Science 🎓",
     year: "Senior",
-    interests: ["Fullstack Development", "Cloud Computing", "Machine Learning", "Artificial Intelligence"],
+    interests: ["Fullstack Development", "Cloud Computing", "Machine Learning", "Artificial Intelligence", "Product Management"],
 };
 ```
 
